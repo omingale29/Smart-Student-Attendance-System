@@ -1,0 +1,10 @@
+dataset/
+encodings.pkl
+attendance.csv
+attendance
+current_slot.txt
+current_slot
+shape_predictor_68_face_landmarks.dat
+__pycache__/
+*.pyc
+.vscode/
